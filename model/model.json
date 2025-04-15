@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "group": "",
+        "header":{
+            "connection": "",
+            "host": "sacsa",
+            "accept" : "",
+            "accept_encoding": "",
+            "accept_language" : "",
+            "cookie": ""
+        }
+    },
+    "data": [
+        {
+            "uri": "daedwe",
+            "payload" : "test_01",
+            "method" : "get"
+        },
+        {
+            "uri" : "test_02",
+            "payload": "",
+            "method": "post"
+        }
+    ]
+}
